@@ -1,6 +1,6 @@
 # Olá, meu nome é Diego e seja bem-vindo ao meu perfil.
 ## Sobre mim 🧑🏻
-Meu nome é Diego, sou ui designer e no momento tenho voltado meus estudos para o desenvolvimento front-end buscando conhecimentos para ter autonomia na hora de desenvolver um projeto web – desde a concepção até à entrega final.<br>
+Meu nome é Diego, sou UI Designer e no momento tenho voltado meus estudos para o desenvolvimento front-end buscando conhecimentos para ter autonomia na hora de desenvolver um projeto web – desde a concepção até à entrega final.<br>
 ## Status 💻
 <div>
   <a href="https://github.com/diegopereira0">
