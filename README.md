@@ -29,6 +29,4 @@ Meu nome é Diego, sou UI Designer e no momento tenho voltado meus estudos para 
    ### Quer trocar uma ideia? Me envie um email 📫
 <a href = "mailto:diego.sdmf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/diegopereira0/diegopereira0/blob/output/github-contribution-grid-snake.svg)
-
 </div>
